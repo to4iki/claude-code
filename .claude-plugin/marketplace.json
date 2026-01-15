@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "to4iki-marketplace",
+  "metadata": {
+    "description": "to4iki's personal Claude Code plugin marketplace",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "to4iki",
+    "email": "tsk.take815@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "create-pr",
+      "source": "./plugins/create-pr",
+      "description": "Create a pull request",
+      "version": "1.0.0",
+      "author": {
+        "name": "to4iki"
+      },
+      "keywords": ["automation"]
+    }
+  ]
+}

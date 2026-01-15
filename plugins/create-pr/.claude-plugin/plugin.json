@@ -1,0 +1,12 @@
+{
+  "name": "create-pr",
+  "version": "1.0.0",
+  "description": "Create a pull request",
+  "author": {
+    "name": "to4iki",
+    "email": "tsk.take815@gmail.com"
+  },
+  "repository": "https://github.com/to4iki/claude-code",
+  "license": "MIT",
+  "keywords": ["automation"]
+}
